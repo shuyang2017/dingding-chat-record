@@ -1,0 +1,4 @@
+interface:
+  display_name: "dingding-chat-record"
+  short_description: "将钉钉群可见聊天记录、上传文件及图片分别下载归档，并核验覆盖范围与缺口"
+  default_prompt: "使用 $dingding-chat-record 将指定钉钉群当前账号可见的全部聊天记录和上传文件分别归档到本地，核验首尾范围并列出未能保存的内容。"
